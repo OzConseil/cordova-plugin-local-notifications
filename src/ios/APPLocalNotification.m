@@ -25,6 +25,7 @@
 #import "APPLocalNotificationOptions.h"
 #import "UIApplication+APPLocalNotification.h"
 #import "UILocalNotification+APPLocalNotification.h"
+#import "AppDelegate.h"
 
 @interface APPLocalNotification ()
 
