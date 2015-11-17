@@ -52,8 +52,6 @@
     <!-- ios -->
     <platform name="ios">
 
-        <dependency id="cordova-common-registerusernotificationsettings-mm" />
-
         <config-file target="config.xml" parent="/*">
             <feature name="LocalNotification">
                 <param name="ios-package" value="APPLocalNotification" onload="true" />
